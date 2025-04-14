@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m3huul
 - 👀 I’m interested in developing and playing games :)
 - 🌱 I’m currently learning unity and unreal
-- 💞️ I’m looking to collaborate on unity game projects
+- 💞️ I’m looking to collaborate on Unity game projects
 - 📫 How to reach me? m3huul on discord 
 
 <!---
